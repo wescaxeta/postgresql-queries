@@ -1,0 +1,2 @@
+# O GitHub não conta SQL genérico nas estatísticas; as queries são PostgreSQL
+*.sql linguist-language=PLpgSQL linguist-detectable=true
